@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gustavo Davila
 - 👀 I’m interested in Backend development and modern tecnologies 
 - 🌱 I’m currently learning Graphql and redis
-- 💞️ I’m looking to collaborate on Board Team
+- 💞️ I’m collaborate on Compliance Team
 - 📫 Finde me: gdavila@condorlabs.io or @gdavila7 in Github
 
 <!---
